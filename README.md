@@ -530,3 +530,4 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Stephen Akinyemi](https://github.com/appcypher) has waived all copyright and related or neighboring rights to this work.
+- [Open Computer Use](https://github.com/iFurySt/open-codex-computer-use) - Open-source Computer Use MCP server that lets AI agents inspect apps, click, type, scroll, drag, press keys, and take screenshots across macOS, Linux, and Windows.
